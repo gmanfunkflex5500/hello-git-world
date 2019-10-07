@@ -1,4 +1,4 @@
 #
-This is a readme for a git learning project
+This is a readme for the git learning project Git-it, developed by Jessica Lorde and available at https://github.com/jlord/git-it.
 
-More text for the readme.
+Thanks for the wonderful learning tool jlord!
